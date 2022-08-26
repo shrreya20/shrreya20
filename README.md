@@ -1,9 +1,9 @@
-# GhoshS1112
-My personal Space to share
 <h1 align="center">Hi 👋, I'm Shreya Ghosh</h1>
-<h3 align="center">A passionate frontend developer, looking for earning more skills in my baggage.</h3>
+<h3 align="center">Just another Front End developer , making Beautiful websites</h3>
 
 - 🔭 I’m currently working on **Fluid Drop Down: Frontend**
+
+- 🌱 I’m currently learning **DSA**
 
 - 📫 How to reach me **ghoshshrreya@gmail.com**
 
@@ -12,7 +12,6 @@ My personal Space to share
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/shrreya-ghosh-47a52b22a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shrreya-ghosh-47a52b22a/" height="30" width="40" /></a>
-<a href="https://instagram.com/shrreya_ghosh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shrreya_ghosh" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
