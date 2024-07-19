@@ -3,10 +3,16 @@
 
 - 🔭 I’m currently working on **Fluid Drop Down: Frontend**
 
-- 🌱 I’m currently learning **DSA**
+- 🌱 Solved more than 300+ questions on **DSA**
 
 - 📫 How to reach me **ghoshshrreya@gmail.com**
 
+- Passionate **machine learning enthusiast**
+
+- Strong background in **data analysis, algorithm development, and model optimization**
+
+- Experienced in working with various **machine learning frameworks and tools** to deliver **impactful data-driven solutions**
+ 
 - ⚡ Fun fact **I think I am Prized person with surprises.**
 
 <h3 align="left">Connect with me:</h3>
