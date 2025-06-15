@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Fluid Drop Down: Frontend**
 
-- 🌱 Solved more than 300+ questions on **DSA**
+- 🌱 Solved more than 600+ questions on **DSA**
 
 - 📫 How to reach me **ghoshshrreya@gmail.com**
 
